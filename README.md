@@ -1,4 +1,3 @@
-
 ---
 
 # 🕹️ PARTIE 1 : PacmanJava (Jeu en Console)
@@ -70,10 +69,10 @@ Le jeu utilise les contrôles du clavier AZERTY :
 
 ---
 
-# 🚧 PARTIE 2 : Map (En Cours)
+# ✅ PARTIE 2 : Map (Terminé)
 
-* **Statut :** En cours de travail.
-
+* **Statut :** **Terminé et Conforme.**
+* **Description :** Cette partie implémente la classe générique `TP2Map<K, V>` simulant une structure de données de type `Map` (clé-valeur) en Java. Elle est construite sur un **Arbre Binaire de Recherche (ABR)** pour garantir la complexité de recherche en $O(\log n)$.
 
 ---
 
